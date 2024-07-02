@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, world! ▬▬ι═══════ﺤ
+ 🔭 I’m currently learning **Java, Kotlin, Python**
 
-<!--
-**Someone-h/someone-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Contact me [here](https://vk.com/mojaros)
 
-Here are some ideas to get you started:
+<h2 align="center"> Stack </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,windows" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin" /><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Pacman </h2>
+<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1030">
+<br><br>
