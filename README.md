@@ -1,7 +1,7 @@
 # Hello, world!!! ▬▬ι═══════ﺤ
  🔭 I’m currently learning **Java, Kotlin, Python**
 
-💬 Contact me [here](https://vk.com/mojaros)
+💬 Contact me [vk](https://vk.com/mojaros) or [tg](https://t.me/Mojaros)
 
 
 
