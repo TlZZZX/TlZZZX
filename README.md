@@ -9,8 +9,8 @@
 <h2 align="center"> Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,windows,gradle,git,docker, sql" />
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,windows,gradle,git,docker,ps,stackoverflow,sublime" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql" /><br>
 </div>
 
 <h2 align="center"> Pacman </h2>
