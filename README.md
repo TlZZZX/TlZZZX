@@ -9,7 +9,7 @@
 <h2 align="center"> Stack </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,windows,gradle,git,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,idea,pycharm,windows,gradle,git,docker, sql" />
     <img src="https://skillicons.dev/icons?i=python,java,kotlin" /><br>
 </div>
 
