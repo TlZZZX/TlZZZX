@@ -1,7 +1,7 @@
 # Hello, world!!! ▬▬ι═══════ﺤ
  🔭 I’m currently learning **Java, Kotlin, Python**
 
-💬 Contact me: [**VKontakte**](https://vk.com/mojaros) **or** [**Telegram**](https://t.me/Mojaros)
+💬 Contact me: [**VKontakte**]() **or** [**Telegram**]()
 
 📄 Сompleted/Unfinished courses: **MIPT Python, JavaRush, Hextel Spring Boot, CS50, Middle Java Developer, Stepic.**
 
